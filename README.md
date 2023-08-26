@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 20px;
-      color: #333;
-    }
-    p {
-      margin-bottom: 20px;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 5px;
-      border-radius: 3px;
-    }
-  </style>
   <title>Steganography with AWS SaaS</title>
 </head>
 <body>
