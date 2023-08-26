@@ -1,4 +1,3 @@
-  <title>Steganography with AWS SaaS</title>
 </head>
 <body>
   <div class="container">
